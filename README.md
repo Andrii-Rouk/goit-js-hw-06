@@ -1,3 +1,3 @@
-# goit-js-hw-5
+# goit-js-hw-6
 
-my first proekt GoIt. Lesson-5
+my first proekt GoIt. Lesson-6
